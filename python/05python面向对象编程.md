@@ -115,7 +115,7 @@ isinstance(c, Dog)
 isinstance(c, Animal)
 ```
 
-![image-20210119220030075](C:\Users\Hexinan_cp\AppData\Roaming\Typora\typora-user-images\image-20210119220030075.png) 
+![](D:\download_git\hexinan_study\python\img\03.png) 
 
 **静态语言 vs 动态语言**
 

@@ -4,7 +4,7 @@
 
 ## 工作流程图
 
-![image-20210120163716380](C:\Users\Hexinan_cp\AppData\Roaming\Typora\typora-user-images\image-20210120163716380.png)
+![](D:\download_git\hexinan_study\git_and_linux\img1.png) 
 
 ## 第一次使用
 
