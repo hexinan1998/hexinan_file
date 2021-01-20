@@ -121,11 +121,9 @@ a = "str"
 
 用记事本编辑的时候，从文件读取的UTF-8字符被转换为Unicode字符到内存里，编辑完成后，保存的时候再把Unicode转换为UTF-8保存到文件：
 
-![(C:\Users\Hexinan_cp\Desktop\python\image\0.png)
+![](D:\download_git\hexinan_study\python\img\0.png) 
 
 浏览网页的时候，服务器会把动态生成的Unicode内容转换为UTF-8再传输到浏览器：
-
-![](D:\download_git\hexinan_study\python\img\0.png) 
 
 ![](D:\download_git\hexinan_study\python\img\1.png) 
 
