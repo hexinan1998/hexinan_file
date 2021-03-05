@@ -1,0 +1,32 @@
+﻿SciPy 包含的模块有最优化、线性代数、积分、插值、特殊函数、快速傅里叶变换、信号处理和图像处理、
+常微分方程求解和其他科学与工程中常用的计算
+
+Matplotlib 是 Python 编程语言及其数值数学扩展包 NumPy 的可视化操作界面。
+它为利用通用的图形用户界面工具包，如 Tkinter, wxPython, Qt 或 GTK+ 向应用程序嵌入式绘图提供了应用程序接口（API）
+
+
+1）
+numpy  (numerical  python) 缩写
+
+一个开源的python 科学计算库
+
+使用numpy 可以方便的使用  数组和矩阵进行计算
+
+包含  线性代数 、 傅里叶变换 、随机数生成等大量函数
+
+2）
+对于同样的数值计算任务，使用 numpy 比直接编写python 代码实现的 优点
+1. 代码更加简洁   numpy 直接以数组 ，矩阵 为粒度计算并且支持大量的数学函数，
+                 而 python 需要使用底层实现
+2. 性能更高效     numpy 的数组存储效率和输入输出的性能都比 python 使用  list嵌套要好
+
+注  numpy 的数据存储  和  python 是不一样的， 因为其底层是 使用  C 直接写的
+
+numpy 是python 各种数据科学类库的 基础库
+
+如  scipy  scikit-learn  tensorflow  paddlepaddle 等
+
+
+
+
+
